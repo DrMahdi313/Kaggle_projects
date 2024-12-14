@@ -1,5 +1,3 @@
-# Kaggle_projects
-
 This is my first trial for a data science project.
 
 ### Project Overview
